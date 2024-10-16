@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: linear-gradient(to right, #2cbe4c, #ee477e);
+}
+
+footer p {
+  margin: 0;
+}
